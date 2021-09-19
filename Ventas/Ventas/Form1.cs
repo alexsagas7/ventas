@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("al que cree todo le es posible");
+            MessageBox.Show("tu actitud, no tu aptitud, determinara tu altitud");
         }
     }
 }
